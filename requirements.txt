@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+jinja2
+qrcode
+reportlab
+PyPDF2
+python-multipart
